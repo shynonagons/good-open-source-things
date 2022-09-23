@@ -1,6 +1,9 @@
 # good-open-source-things
 Things that are good, and open source
 
+## Server
+[Caddy](https://caddyserver.com/)
+
 ## Networking / Multiplayer
 [Colyseus](https://github.com/colyseus/colyseus) 
 
