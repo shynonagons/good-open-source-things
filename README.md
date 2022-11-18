@@ -1,6 +1,9 @@
 # good-open-source-things
 Things that are good, and open source
 
+## Diagrams
+* [Mermaid](https://github.com/mermaid-js/mermaid)
+
 ## Server
 * [Caddy](https://caddyserver.com/)
 
