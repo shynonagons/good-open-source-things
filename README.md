@@ -1,6 +1,9 @@
 # good-open-source-things
 Things that are good, and open source
 
+## Database
+* [Yugabyte](https://github.com/yugabyte/yugabyte-db)
+
 ## Diagrams
 * [Mermaid](https://github.com/mermaid-js/mermaid)
 
