@@ -16,3 +16,6 @@ Things that are good, and open source
 
 ## Server
 * [Caddy](https://caddyserver.com/)
+
+## Calendar
+* [Schej](https://schej.it/)
